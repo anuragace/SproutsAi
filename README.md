@@ -10,7 +10,7 @@ license: apache-2.0
 
 # SproutsAI - Candidate Recommendation Engine
 
-**Submitted by:** Anurag Kalapala
+**Developed by:** Anurag Kalapala [LinkedIn] (https://www.linkedin.com/in/anurag-kalapala-a03a28355/) 
 
 **Live Demo:** [https://huggingface.co/spaces/Anuragleo67/SproutsAI](https://huggingface.co/spaces/Anuragleo67/SproutsAI)
 
