@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+# SproutsAi
+Candidate Recommendation Engine
+=======
+---
+title: SproutsAi
+emoji: 🦀
+colorFrom: gray
+colorTo: green
+sdk: gradio
+sdk_version: 5.41.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Candidate Recommendation Engine
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 20659b7e722204bf396d8615c6247d166ebb3c3a
+
 SproutsAI - Candidate Recommendation Engine
 Submitted by: Anurag Kalapala
 
@@ -35,8 +55,8 @@ Semantic Relevance as Primary Metric: The ranking is based solely on the cosine 
 
 Filename as ID: For the purpose of this demo, the filename of the resume is used as the candidate's unique identifier.
 
-How to Run Locally
-1. Clone the Repository:
+1. How to Run Locally
+Clone the Repository:
 
 git clone https://github.com/anuragace/SproutsAi.git
 cd SproutsAi
@@ -56,7 +76,7 @@ pip install -r requirements.txt
 # In PowerShell:
 $env:GOOGLE_API_KEY = "your-gemini-api-key"
 
-5. Run the Application:
+5.Run the Application:
 
 python app.py
 Then open your browser to http://127.0.0.1:7860.
