@@ -10,14 +10,14 @@ license: apache-2.0
 
 # SproutsAI - Candidate Recommendation Engine
 
-**Submitted by:** Anurag Kalapala
+**Developed by:** Anurag Kalapala  -  https://www.linkedin.com/in/anurag-kalapala-a03a28355/ 
 
 **Live Demo:** [https://huggingface.co/spaces/Anuragleo67/SproutsAI](https://huggingface.co/spaces/Anuragleo67/SproutsAI)
 
 ---
 ## Project Overview
 
-This project is a web application built to fulfill the take-home assignment for the Machine Learning Engineer Internship at SproutsAI. The application serves as a tool for recruiters to efficiently find the best candidates for a job opening. It accepts a job description and a batch of candidate resumes, then intelligently ranks the candidates based on the semantic relevance of their resume to the job's requirements. To further assist recruiters, it also provides an AI-generated summary explaining why the top candidates are a strong match.
+This project is a web application. The application serves as a tool for recruiters to efficiently find the best candidates for a job opening. It accepts a job description and a batch of candidate resumes, then intelligently ranks the candidates based on the semantic relevance of their resume to the job's requirements. To further assist recruiters, it also provides an AI-generated summary explaining why the top candidates are a strong match.
 
 ---
 ## Key Features
@@ -54,8 +54,8 @@ My core approach was to build a modular and robust application that was both eff
 1.  **Clone the Repository**
     
     ```bash
-    git clone [https://github.com/anuragace/SproutsAi.git](https://github.com/anuragace/SproutsAi.git)
-    cd SproutsAi
+    git clone <repository-url>
+    cd <repository-directory-name>
     ```
     
 2.  **Create and Activate a Virtual Environment**
